@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[657],{9657:(e,n,r)=>{r.r(n),r.d(n,{AppLauncherWeb:()=>l});var a=r(2587);class l extends a.WebPlugin{async canOpenUrl(e){return{value:!0}}async openUrl(e){return window.open(e.url,"_blank"),{completed:!0}}}}}]);
